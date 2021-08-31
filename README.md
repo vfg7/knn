@@ -10,7 +10,11 @@ kNN é uma técnica de aprendizado baseado em instâncias que assume que todos o
 
 ![linha](https://user-images.githubusercontent.com/62081666/131420612-ddfa8c64-2530-4630-9729-fc00df1f60fb.png)
 
-A imagem acima já mostra graficamente uma falha da técnica kNN. o algoritmo sofre de algo chamado _maldição da dimensionalidade_ que implica em dois problemas práticos: 1) pode ser bastante custoso avaliar um novo ponto e classificá-lo. 2) diferentemente de outros métodos, como árvores de decisão, que avaliam a classificação a partir de diferentes passos usando um subconjunto dos atributos em cada passo, o kNN usa todos os atributos de uma vez só. Esse fato pode causar uma má representação do conjunto de dados em que, digamos, apenas uma parcela dos atributos é relevante para a classificação. Assim, os outros atributos são apenas ruído, deslocando o ponto no espaço N-dimensional -  oque pode causar gráficos feito o segundo na imagem acima.
+A imagem acima já mostra graficamente uma falha da técnica kNN. o algoritmo sofre de algo chamado _maldição da dimensionalidade_ que implica em dois problemas práticos: 
+
+1) pode ser bastante custoso avaliar um novo ponto e classificá-lo. 
+
+2) diferentemente de outros métodos, como árvores de decisão, que avaliam a classificação a partir de diferentes passos usando um subconjunto dos atributos em cada passo, o kNN usa todos os atributos de uma vez só. Esse fato pode causar uma má representação do conjunto de dados em que, digamos, apenas uma parcela dos atributos é relevante para a classificação. Assim, os outros atributos são apenas ruído, deslocando o ponto no espaço N-dimensional -  oque pode causar gráficos feito o segundo na imagem acima.
 
 Como toda técnica, o kNN tem seus prós e contras. Cabe ao programador colocar a ferramenta certa no lugar certo :)
 
