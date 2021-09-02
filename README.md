@@ -20,4 +20,10 @@ Como toda técnica, o kNN tem seus prós e contras. Cabe ao programador colocar 
 
 Todas as fotos cortesia do google imagens :)
 
+
+* Python - versão 3.7.0
+* bibliotecas importadas: CSV
+
+
+* O Projeto foi feito usando o Pycharm, então sua reprodução poder ser facilmente feita clonando este repositório e abrindo-o como um novo projeto na mesma IDE
  
