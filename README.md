@@ -1,9 +1,12 @@
-# Machine Learning - kNN
- Implementando um algoritmo simples para aprendizado de máquina. Sim, implementando do zero mesmo porque como bom nerd, gosto do método e da matemática, e não me satisfaçõ em apenas obter um resultado sem saber como chegar nele. Existem bibliotecas muito boas para ML em Python - particularmente gosto muito da scikit learn) mas como kNN é relativamente simples, podemos aproveitar a disposição e construí-lo na mão. 
+Classificação de uma base de dados usando kNN
+
+Implementando um algoritmo simples para classificação de uma base de dados. Escolhi construir o algoritmo do zero para fins de aprendizado. Existem bibliotecas muito boas para ML em Python - particularmente gosto muito da scikit learn) mas como kNN é relativamente simples, podemos aproveitar a disposição e construí-lo do zero. 
 
 O conjunto de dados escolhido foi um clássico de qualquer aspirante ao campo de IA / ML / afins, a base de dados das flores do gênero Iris (que você pode conferir aqui neste link: https://archive.ics.uci.edu/ml/datasets/iris)
 
-![iris-machinelearning](https://user-images.githubusercontent.com/62081666/131419211-05a5843e-e2fb-4b6a-89b1-9ceb5ed22392.png) Coisas lindas, né?
+![iris-machinelearning](https://user-images.githubusercontent.com/62081666/131419211-05a5843e-e2fb-4b6a-89b1-9ceb5ed22392.png) 
+
+Achei até bonitinhas
 
 
 kNN é uma técnica de aprendizado baseado em instâncias que assume que todos os elementos de um conjunto são pontos em um espaço de N dimensões, sendo N o número de atributos que descreve um elemento. O algoritmo funciona agrupando os dados próximos neste espaço teórico como similares e é bastante efetivo para conjunto de dados que são linearmente separáveis.
@@ -25,5 +28,5 @@ Todas as fotos cortesia do google imagens :)
 * bibliotecas importadas: CSV
 
 
-* O Projeto foi feito usando o Pycharm, então sua reprodução poder ser facilmente feita clonando este repositório e abrindo-o como um novo projeto na mesma IDE
+* O Projeto foi feito usando o Pycharm, então sua reprodução poder ser facilmente feita clonando este repositório e abrindo-o como um novo projeto na mesma IDE.
  
